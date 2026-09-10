@@ -1,5 +1,7 @@
 # Hi, I'm Aditya Nur Iskandar — Full Stack · Data · DevOps · AI Engineer
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=160&section=header&text=Build%20End-to-End%20Systems&fontSize=36&fontColor=ffffff)
+
 Saya membangun sistem end-to-end: dari aplikasi, pipeline data, infrastruktur, sampai fitur AI di atasnya.
 
 ## Apa yang saya kerjakan
@@ -11,12 +13,7 @@ Saya membangun sistem end-to-end: dari aplikasi, pipeline data, infrastruktur, s
 
 ## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+[![stack](https://skillicons.dev/icons?i=py,go,ts,js,postgres,docker,gcp,linux,git)](https://skillicons.dev)
 
 ## Connect
 
