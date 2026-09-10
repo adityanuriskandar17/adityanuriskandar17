@@ -17,5 +17,5 @@ Saya membangun sistem end-to-end: dari aplikasi, pipeline data, infrastruktur, s
 
 ## Connect
 
-- LinkedIn: tulis URL LinkedIn kamu di sini
+- LinkedIn: [aditya-nur-iskandar](https://www.linkedin.com/in/aditya-nur-iskandar-82ba77181/)
 - Open to opportunities: Full Stack · Data · DevOps · AI Engineer
